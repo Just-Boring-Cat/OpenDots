@@ -2,19 +2,20 @@
 
 # OpenDots
 
-### Always-on AI coworkers that move between text, calls, and Slack.
+### A personal, provider-flexible assistant workspace. Product direction is in discovery.
 
-**An open-source template for persistent AI agents, each with its own computer. Available on Web and Mobile.**
+**An independent product exploration based on the OpenDots template.** The long-term direction is a personal assistant with user-defined Dots, explicit computer and service permissions, multiple model providers, and optional Context Kit support. Those product capabilities are not yet implemented or approved for hosted multi-user use.
 
-Built with [CopilotKit](https://github.com/CopilotKit/CopilotKit) and [AG-UI](https://docs.ag-ui.com/introduction). · [Get started](#get-started) · [Overview](#overview) · [Architecture](#architecture) · [Features](#features) · [Contributing](CONTRIBUTING.md)
+Based on [CopilotKit OpenDots](https://github.com/CopilotKit/OpenDots), [CopilotKit](https://github.com/CopilotKit/CopilotKit), and [AG-UI](https://docs.ag-ui.com/introduction). · [Project status](docs/00-start-here.md) · [Product plan](docs/01-product/product-vision.md) · [Roadmap](docs/02-planning/roadmap.md) · [Changelog](CHANGELOG.md) · [Get started](#get-started)
 
-[![CI](https://github.com/CopilotKit/OpenDots/actions/workflows/ci.yml/badge.svg)](https://github.com/CopilotKit/OpenDots/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-![Alpha](https://img.shields.io/badge/status-alpha-orange.svg)
+<p align="center">
+  <img alt="Project status: discovery" src="https://img.shields.io/badge/status-discovery-blue" />
+  <a href="https://github.com/Just-Boring-Cat/OpenDots/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/Just-Boring-Cat/OpenDots" /></a>
+  <a href="https://github.com/Just-Boring-Cat/OpenDots/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/Just-Boring-Cat/OpenDots" /></a>
+  <a href="https://github.com/Just-Boring-Cat/OpenDots"><img alt="Repository size" src="https://img.shields.io/github/repo-size/Just-Boring-Cat/OpenDots" /></a>
+</p>
 
-Fully self-hostable. Clone this template and customize it however you want.
-
-[**Building on OpenDots? Meet with the CopilotKit team →**](https://www.copilotkit.ai/talk-to-an-engineer?ref=opendots_readme)
+This fork is not yet a supported product. The current code remains based on the upstream template; see the [product vision](docs/01-product/product-vision.md) and [roadmap](docs/02-planning/roadmap.md).
 
 </div>
 

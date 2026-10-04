@@ -1,0 +1,8 @@
+id,title,status,priority,owner,reviewer,module,task_type,estimate_hours,actual_focused_hours,confidence,source_refs,updated
+DOT-001,Complete upstream adoption and security boundary review,in_progress,high,owner,codex,upstream,discovery,,,medium,docs/00-start-here.md;SECURITY.md;docs/SETUP.md,2026-10-04
+DOT-002,Confirm product identity and first workflow,planned,high,owner,codex,product,product-discovery,,,low,docs/01-product/product-vision.md;docs/01-product/requirements.md,2026-10-04
+DOT-003,Validate model provider and ChatGPT-plan routes,planned,high,owner,codex,providers,architecture,,,medium,docs/03-architecture/provider-auth.md;docs/01-product/requirements.md,2026-10-04
+DOT-004,Choose conversation and memory persistence boundary,planned,high,owner,codex,data,architecture,,,low,docs/03-architecture/architecture-options.md;docs/02-planning/roadmap.md,2026-10-04
+DOT-005,Design local-device and isolated-computer control,planned,high,owner,codex,device-agent,security-architecture,,,low,docs/03-architecture/architecture-options.md;SECURITY.md,2026-10-04
+DOT-006,Define multi-user identity and tenant threat model,planned,high,owner,codex,identity,security-architecture,,,low,docs/01-product/requirements.md;docs/02-planning/roadmap.md,2026-10-04
+DOT-007,Compare hosting and local-inference deployment options,planned,medium,owner,codex,hosting,architecture,,,low,docs/03-architecture/hosting-options.md,2026-10-04

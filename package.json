@@ -1,7 +1,7 @@
 {
   "name": "opendots",
   "version": "0.1.0",
-  "description": "A self-hosted personal-agent template with CopilotKit Intelligence, Threads, and Channels.",
+  "description": "Independent discovery fork for a secure, multi-provider personal assistant workspace.",
   "main": "index.js",
   "directories": {
     "doc": "docs",
@@ -75,7 +75,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CopilotKit/OpenDots.git"
+    "url": "git+https://github.com/Just-Boring-Cat/OpenDots.git"
   },
   "overrides": {
     "undici": "^6.29.0"
